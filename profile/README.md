@@ -1,6 +1,8 @@
 <div align="center">
 
-[![Project Aurora](assets/projectaurora.png)](https://orrora.com/)
+<a href="https://orrora.com/">
+  <img src="assets/projectaurora.png" alt="Project Aurora" width="200"/>
+</a>
 
 # Project Aurora
 
@@ -10,9 +12,13 @@
 
 ---
 
-[![Twitter](assets/twitter.png)](https://twitter.com/projectaurora)
+<a href="https://twitter.com/projectaurora">
+  <img src="assets/twitter.png" alt="Twitter" width="40"/>
+</a>
 &nbsp;&nbsp;&nbsp;
-[![LinkedIn](assets/linkedin.png)](https://www.linkedin.com/company/105538375)
+<a href="https://www.linkedin.com/company/105538375">
+  <img src="assets/linkedin.png" alt="LinkedIn" width="40"/>
+</a>
 
 ---
 
